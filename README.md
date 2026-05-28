@@ -3,7 +3,7 @@
 🎯 **Embedded Systems Engineer | Edge AI | IoT | Robotics Enthusiast**  
 
 I build **embedded systems that bridge hardware, software, and intelligence** — from real-time MCU firmware to machine learning at the edge.  
-Currently, I’m working on **robotics and PLC-based control systems at Neuro42**, and developing my expertise in **RTOS, Embedded Linux, and IoT**.  
+Currently, I’m working on **robotics and PLC-based control systems at a startup**, and developing my expertise in **RTOS, Embedded Linux, and IoT**.  
 
 ---
 
